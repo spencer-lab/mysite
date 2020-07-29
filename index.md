@@ -1,3 +1,3 @@
 # Spencer's Site
 
-Welcome.
+Welcome to my site on Github.
